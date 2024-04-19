@@ -1,4 +1,5 @@
 # R Code to Compute Sensor-Derived Upper Limb Variables from Bilateral Wrist-Worn Accelerometers
+<a href="https://zenodo.org/doi/10.5281/zenodo.10999194"><img src="https://zenodo.org/badge/789058882.svg" alt="DOI"></a>
 
 This repository includes the R code scripts used to process all upper limb accelerometry data for the project, Harmonized Upper and Lower Limb Accelerometry Data. This is a harmonized dataset of accelerometry data collected by Washington University School of Medicine investigators and collaborators. The harmonized dataset includes data from eight studies, 790 individuals with a variety of health conditions, and 2,885 recording days of accelerometry data. The dataset has been submitted to the National Institute of Child Health and Human Development (NICHD) Data and Specimen Hub (DASH) repository.  This README document will be updated with a link to the dataset, once it is available.
 
