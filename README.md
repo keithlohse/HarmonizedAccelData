@@ -51,10 +51,8 @@ The code uses these data files to compute 26 variables that reflect movement of 
 A publication about the harmonized dataset is in preparation. The doi associated with this publication will be added to this README file, once available. We also encourage individuals who are interested in learning more about this dataset and the upper limb accelerometry variables to explore the R Shiny Object associated with the data at: https://langlab.shinyapps.io/harmonized_data/. At present, the R Shiny Object only includes data from pediatric participants. However, it is being updated to include data from adult participants.
 
 Questions or feedback about the data or code can be directed to:
+- Allison Miller, PT, DPT, PhD, NCS, Postdoctoral Research Associate, Washington University School of Medicine in St. Louis, miller.allison@wustl.edu
+- Catherine Lang, PT, PhD, FASNR, FAPTA, Professor of Physical Therapy, Neurology, and Occupational Therapy, Washington University School of Medicine in St. Louis, langc@wustl.edu
+- Keith Lohse, PhD, PStat, Associate Professor of Physical Therapy and Neurology, Affiliate of the Institute for Informatics, Data Science, and Biostatistics, Washington University School of Medicine in St. Louis, lohse@wustl.edu
 
-*Allison Miller, PT, DPT, PhD, NCS, Postdoctoral Research Associate, Washington University School of Medicine in St. Louis, miller.allison@wustl.edu
-
-*Catherine Lang, PT, PhD, FASNR, FAPTA, Professor of Physical Therapy, Neurology, and Occupational Therapy, Washington University School of Medicine in St. Louis, langc@wustl.edu
-
-*Keith Lohse, PhD, PStat, Associate Professor of Physical Therapy and Neurology, Affiliate of the Institute for Informatics, Data Science, and Biostatistics, Washington University School of Medicine in St. Louis, lohse@wustl.edu
 
