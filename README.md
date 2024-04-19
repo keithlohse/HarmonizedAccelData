@@ -16,8 +16,11 @@ The purpose of sharing this code is to provide transparency with how the upper l
 |Associations Between Coordination and Wearable Sensor Variables	|Encoding_PMID38189355.R|	Two days of accelerometry data were processed. In-lab time was removed.|
 
 For simplicity, this repository also includes a generic code script, UpperLimbAccelerometry.R that provides an overview of each of the upper limb sensor variable calculations for a 24-hour recording period.
-Executing these code scripts requires reading in four csv files: two down-sampled 1 Hz data files extracted from ActiLife 6 software (in ActiGraph activity counts, ActiGraph Inc, Pensacola, Florida) and two raw 30 Hz acceleration data files (in gravitational units), also extracted from ActiLife 6 software. Additional details regarding ActiGraph’s down-sampling procedures and quantification of activity counts can be found in the publication:
-Neishabouri A, Nguyen J, Samuelsson J, et al. Quantification of acceleration as activity counts in ActiGraph wearable. Sci Rep. 2022;12(1):11958. 
+
+Executing these code scripts requires reading in four csv files: 
+- two down-sampled 1 Hz data files extracted from ActiLife 6 software (in ActiGraph activity counts, ActiGraph Inc, Pensacola, Florida) 
+- and two raw 30 Hz acceleration data files (in gravitational units), also extracted from ActiLife 6 software. Additional details regarding ActiGraph’s down-sampling procedures and quantification of activity counts can be found in the publication: Neishabouri A, Nguyen J, Samuelsson J, et al. Quantification of acceleration as activity counts in ActiGraph wearable. Sci Rep. 2022;12(1):11958. 
+
 The code uses these data files to compute 26 variables that reflect movement of the upper limbs in daily life. A description of each variable and the sampling frequency from which the variable was computed is displayed in the table below.
 |Variable Name |	Variable Description	| Sampling Frequency|
 |--------------|----------------------------|-------------------|
